@@ -1,0 +1,5 @@
+SELECT popel.roga.CompanyName, popel.roga.OrderNumber FROM popel.roga
+UNION
+SELECT popel.kopita.CompanyName, popel.kopita.OrderNumber FROM popel.kopita
+UNION
+SELECT popel.xvost.CompanyName, popel.xvost.OrderNumber FROM popel.xvost

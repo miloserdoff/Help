@@ -1,0 +1,200 @@
+C:\Users\The best END\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\The best END\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\The best END\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\The best END\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\The best END\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\The best END\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\The best END\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\The best END\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.LoginForm.resources
+C:\Users\The best END\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\The best END\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The best END\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\The best END\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\The best END\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\The best END\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\The best END\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\The best END\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\The best END\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\The best END\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\The best END\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\The best END\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\The best END\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\The best END\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\The best END\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\The best END\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\The best END\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\The best END\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\The best END\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\MySql.Data.xml
+C:\Users\The best END\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\The best END\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.RegisterForm.resources
+C:\Users\The best END\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MeinForm.resources
+C:\Users\The best END\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.gost.resources
+C:\Users\The best END\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.moder.resources
+C:\Users\The best END\Desktop\Попель\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\The best END\Desktop\Попель\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.gost.resources
+C:\Users\The best END\Desktop\Попель\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.LoginForm.resources
+C:\Users\The best END\Desktop\Попель\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MeinForm.resources
+C:\Users\The best END\Desktop\Попель\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.moder.resources
+C:\Users\The best END\Desktop\Попель\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\The best END\Desktop\Попель\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.RegisterForm.resources
+C:\Users\The best END\Desktop\Попель\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.spravka.resources
+C:\Users\The best END\Desktop\Попель\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\The best END\Desktop\Попель\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The best END\Desktop\Попель\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\The best END\Desktop\Попель\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\The best END\Desktop\Попель\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\The best END\Desktop\Попель\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\The best END\Desktop\Попель\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\The best END\Desktop\Попель\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\The best END\Desktop\Попель\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\The best END\Desktop\Попель\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\The best END\Desktop\Попель\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\The best END\Desktop\Попель\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\The best END\Desktop\Попель\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\The best END\Desktop\Попель\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\The best END\Desktop\Попель\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\The best END\Desktop\Попель\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\The best END\Desktop\Попель\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\The best END\Desktop\Попель\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\The best END\Desktop\Попель\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\The best END\Desktop\Попель\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\The best END\Desktop\Попель\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\The best END\Desktop\Попель\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\The best END\Desktop\Попель\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.admin.resources
+C:\Users\The best END\Desktop\Попель\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\The best END\Desktop\Попель\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\The best END\Desktop\Попель\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\The best END\Desktop\Попель\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\The best END\Desktop\Попель\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\The best END\Desktop\Попель\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\The best END\Desktop\Попель\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\The best END\Desktop\Попель\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\The best END\Desktop\Попель\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\The best END\Desktop\Попель1111\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\The best END\Desktop\Попель1111\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\The best END\Desktop\Попель1111\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\The best END\Desktop\Попель1111\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\The best END\Desktop\Попель1111\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\The best END\Desktop\Попель1111\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\The best END\Desktop\Попель1111\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\The best END\Desktop\Попель1111\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\The best END\Desktop\Попель1111\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\The best END\Desktop\Попель1111\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\The best END\Desktop\Попель1111\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\The best END\Desktop\Попель1111\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\The best END\Desktop\Попель1111\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\The best END\Desktop\Попель1111\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\The best END\Desktop\Попель1111\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\The best END\Desktop\Попель1111\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\The best END\Desktop\Попель1111\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\The best END\Desktop\Попель1111\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\The best END\Desktop\Попель1111\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\The best END\Desktop\Попель1111\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\The best END\Desktop\Попель1111\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\The best END\Desktop\Попель1111\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.admin.resources
+C:\Users\The best END\Desktop\Попель1111\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.gost.resources
+C:\Users\The best END\Desktop\Попель1111\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.LoginForm.resources
+C:\Users\The best END\Desktop\Попель1111\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MeinForm.resources
+C:\Users\The best END\Desktop\Попель1111\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.moder.resources
+C:\Users\The best END\Desktop\Попель1111\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\The best END\Desktop\Попель1111\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.RegisterForm.resources
+C:\Users\The best END\Desktop\Попель1111\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.spravka.resources
+C:\Users\The best END\Desktop\Попель1111\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\The best END\Desktop\Попель1111\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The best END\Desktop\Попель1111\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\The best END\Desktop\Попель1111\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\The best END\Desktop\Попель1111\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\The best END\Desktop\Попель1111\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\The best END\Desktop\Попель1111\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\The best END\Desktop\Попель1111\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\The best END\Desktop\Попель1111\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\The best END\Desktop\Попель1111\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\The best END\Desktop\Попель1111\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\The best END\Desktop\Попель1111\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.NewDataForm.resources
+D:\прог\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\прог\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\прог\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\прог\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\прог\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\прог\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\прог\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\прог\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\прог\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\прог\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\прог\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\прог\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\прог\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\прог\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\прог\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\прог\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\прог\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\прог\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\прог\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\прог\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.admin.resources
+D:\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.gost.resources
+D:\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.LoginForm.resources
+D:\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MeinForm.resources
+D:\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.moder.resources
+D:\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.NewDataForm.resources
+D:\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+D:\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.RegisterForm.resources
+D:\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.spravka.resources
+D:\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+D:\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.admin.resources
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.gost.resources
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.LoginForm.resources
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MeinForm.resources
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.moder.resources
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.RegisterForm.resources
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.spravka.resources
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Kopita.resources
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Roga.resources
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Xvost.resources
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.NewDataFormKopita.resources
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.NewDataFormRoga.resources
+C:\Users\Kucтик\Desktop\прог\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.NewDataFormXvost.resources
